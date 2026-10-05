@@ -1,6 +1,6 @@
 # paper-radar
 
-Daily arXiv ingestion, ranked by a model trained on my own labels, delivered as a short daily digest and a private podcast.
+Daily arXiv ingestion focused on geospatial AI and remote sensing, ranked by a model trained on my own labels, delivered as a short daily digest and a private podcast.
 
 ## Phases
 
